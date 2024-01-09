@@ -1,6 +1,4 @@
 ---
-name: 'PR template'
-description: 'checklist를 확인해주세요.'
 title: '[type] message'
 ---
 ## PR Checklist
