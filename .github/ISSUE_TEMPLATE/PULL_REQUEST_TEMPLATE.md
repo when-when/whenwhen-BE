@@ -1,4 +1,6 @@
 ---
+name: 'PR template'
+description: ' ' 
 title: '[type] message'
 ---
 ## PR Checklist
