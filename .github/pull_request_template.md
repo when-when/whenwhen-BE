@@ -1,6 +1,4 @@
----
-title: '[type] message'
----
+<!-- '[type] message' -->
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
 
